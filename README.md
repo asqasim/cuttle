@@ -37,5 +37,5 @@ AI predictions are "pixel-based" (probabilistic). To convert these into GIS-read
 
 ## **5\. Performance & Results**
 
-* **Hardware:** Trained on CPU (Dell Latitude 3380\) in \~5 hours.  
+* **Hardware:** Trained on CPU (Dell Latitude 3380\) in \~20 hours.  
 * **Accuracy:** Successfully generalized to out-of-distribution test sites (images not seen during training).
